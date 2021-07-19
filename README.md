@@ -1,10 +1,12 @@
-# Extended Sitecore Commerce Catalog
+# Sitecore Commerce Catalog Component Extension Sample
 Example Sitecore Commerce catalog plugin project to demonstrate extending catalog, category, sellable items, and variants with components.
+
+This source code is to support [Sitecore Experience Commerce: Extending CatalogItemBase Entities with Components](http://andrewsutherland.azurewebsites.net/2021/07/19/sitecore-experience-commerce-extending-catalogitembase-entities-with-components/).
 
 ## Installation Instructions
 1. Download the repository.
-2. Add the **Ajsuth.Feature.Catalog.ComponentExtension.Engine.csproj** to the _**Sitecore Commerce Engine**_ solution.
-3. In the _**Sitecore Commerce Engine**_ project, add a reference to the **Ajsuth.Feature.Catalog.ComponentExtension.Engine** project.
+2. Add the **Ajsuth.Foundation.Catalogs.ComponentExtension.Engine.csproj** to the _**Sitecore Commerce Engine**_ solution.
+3. In the _**Sitecore Commerce Engine**_ project, add a reference to the **Ajsuth.Foundation.Catalogs.ComponentExtension.Engine** project.
 4. Run the _**Sitecore Commerce Engine**_ from Visual Studio or deploy the solution and run from IIS.
 
 ## Known Issues
